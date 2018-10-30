@@ -1,0 +1,11 @@
+D:\workspace\baek-joon\no-1003\obj\Debug\netcoreapp2.1\no-1003.csprojAssemblyReference.cache
+D:\workspace\baek-joon\no-1003\obj\Debug\netcoreapp2.1\no-1003.csproj.CoreCompileInputs.cache
+D:\workspace\baek-joon\no-1003\obj\Debug\netcoreapp2.1\no-1003.AssemblyInfoInputs.cache
+D:\workspace\baek-joon\no-1003\obj\Debug\netcoreapp2.1\no-1003.AssemblyInfo.cs
+D:\workspace\baek-joon\no-1003\bin\Debug\netcoreapp2.1\no-1003.deps.json
+D:\workspace\baek-joon\no-1003\bin\Debug\netcoreapp2.1\no-1003.runtimeconfig.json
+D:\workspace\baek-joon\no-1003\bin\Debug\netcoreapp2.1\no-1003.runtimeconfig.dev.json
+D:\workspace\baek-joon\no-1003\bin\Debug\netcoreapp2.1\no-1003.dll
+D:\workspace\baek-joon\no-1003\bin\Debug\netcoreapp2.1\no-1003.pdb
+D:\workspace\baek-joon\no-1003\obj\Debug\netcoreapp2.1\no-1003.dll
+D:\workspace\baek-joon\no-1003\obj\Debug\netcoreapp2.1\no-1003.pdb
